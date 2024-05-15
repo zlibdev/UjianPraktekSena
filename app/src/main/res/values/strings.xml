@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ujian Praktek</string>
+    <string name="onBoardingTitle">Create ur Profile</string>
+    <string name="onBoardingDescription">this is a test, to make sync the username and ini ujian praktek</string>
+    <string name="onBoardingButton">Less Go</string>
+    <string name="job">Network Engineer</string>
+    <string name="ttl">Semarang, Jawa Tengah</string>
+    <string name="input_name">Your Name Here</string>
+    <string name="fill_your_profile">Insert your Profile</string>
+    <string name="login">Login</string>
+</resources>
